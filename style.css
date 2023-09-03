@@ -61,6 +61,7 @@ header > p{
     font-family: var(--font-destaque);
     font-size: 17px;
     color: white;
+    margin: auto;
     padding-bottom: 18px;
     font-weight: normal;
     text-shadow: 1px 3px 20px rgba(0, 0, 0, 0.473);
